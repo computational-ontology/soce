@@ -1,0 +1,40 @@
+{
+  "title": "SOCE Codebook v0.1 and Corpus Registry",
+  "description": "<p>Measurement canon for <strong>SOCE</strong> (Social-Ontological Cycle of Exclusion), a five-node diagnostic architecture for reading how contemporary democracies naturalise the exclusion of the Other.</p><p>This deposit contains the codebook (ordinal rubrics for node states, Todorov axes and inter-node link states), the anchor set, and the registry of documented corpus cases.</p><p>Notation is qualitative-ordinal throughout: ordinal states are never averaged, summed or weighted. Reproducibility is defined as two independent analysts producing the same structural signature, not as a statistical coefficient.</p><p><strong>Two-tier use rule.</strong> Exploratory use is open to all; canonical diagnosis requires two trained coders under the delta-protocol. Outputs produced without that validation are not canonical SOCE signatures.</p><p>Part of the <a href=\"https://computational-ontology.com\">Computational Ontology</a> research programme.</p>",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "version": "0.1.0",
+  "creators": [
+    {
+      "name": "Bourguet, Luis",
+      "affiliation": "LabOnt — Centre for Ontology, Università degli Studi di Torino",
+      "orcid": "0000-0002-4673-4486"
+    }
+  ],
+  "keywords": [
+    "social ontology",
+    "documentality",
+    "structural exclusion",
+    "ordinal notation",
+    "structural signatures",
+    "computational social science",
+    "codebook",
+    "comparative constitutionalism"
+  ],
+  "communities": [
+    {
+      "identifier": "computational-ontology"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://computational-ontology.com",
+      "relation": "isPartOf",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Part of the Computational Ontology research programme."
+}

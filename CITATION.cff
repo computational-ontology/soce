@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: dataset
+title: "SOCE Codebook v0.1 and Corpus Registry"
+abstract: >-
+  Measurement canon for SOCE (Social-Ontological Cycle of Exclusion), a
+  five-node diagnostic architecture for reading how contemporary democracies
+  naturalise the exclusion of the Other. This deposit contains the codebook
+  (ordinal rubrics for node states, Todorov axes and inter-node link states),
+  the anchor set, and the registry of documented corpus cases. Notation is
+  qualitative-ordinal throughout: ordinal states are never averaged, summed or
+  weighted. Reproducibility is defined as two independent analysts producing
+  the same structural signature, not as a statistical coefficient. Exploratory
+  use is open; canonical diagnosis requires two trained coders under the
+  delta-protocol.
+
+authors:
+  - family-names: Bourguet
+    given-names: Luis
+    orcid: "https://orcid.org/0000-0002-4673-4486"
+    affiliation: "LabOnt — Centre for Ontology, Università degli Studi di Torino"
+
+version: "0.1.0"
+date-released: "2026-07-27"
+license: CC-BY-4.0
+repository-code: "https://github.com/computational-ontology/soce"
+url: "https://computational-ontology.com"
+
+keywords:
+  - social ontology
+  - documentality
+  - structural exclusion
+  - ordinal notation
+  - structural signatures
+  - computational social science
+  - codebook
+  - comparative constitutionalism
+
+# Add after the first release mints a DOI. Use the CONCEPT DOI — the one that
+# always resolves to the newest version — not the version-specific DOI.
+# doi: "10.5281/zenodo.XXXXXXXX"
