@@ -36,6 +36,5 @@ keywords:
   - codebook
   - comparative constitutionalism
 
-# Add after the first release mints a DOI. Use the CONCEPT DOI — the one that
 # always resolves to the newest version — not the version-specific DOI.
-# doi: "10.5281/zenodo.XXXXXXXX"
+# doi: "https://doi.org/10.5281/zenodo.21616892"
