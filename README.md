@@ -53,6 +53,7 @@ which they are not.
 
 Cite the concept DOI, which always resolves to the newest version. See
 `CITATION.cff`, or use the *Cite this repository* button above.
+Preregistered replication: https://doi.org/10.17605/OSF.IO/5MWYS
 
 ## Licence
 
