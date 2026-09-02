@@ -11,9 +11,10 @@ lang: en
 
 First external expert pilot of the deposited instrument, run in the participant's
 own AI assistant (ChatGPT) as a portable skill — no SOCE infrastructure, no
-dedicated compute. Participant: **Nirmali Wijegoonawardena** (University of Colombo,
-Sri Lanka), specialist in International Relations and peace and conflict
-studies — named here with her written authorisation (28 August 2026).
+dedicated compute. Participant: **Nirmali Wijegoonawardena**, Professor in International
+Relations, University of Colombo, Sri Lanka — peace and conflict studies;
+named here with her written authorisation (28 August 2026, affiliation as
+supplied 2 September 2026).
 Total time invested: ~3 hours across two cases.
 
 - **Case A (assigned, usability check)** — Apartheid South Africa, 1948–1994.
@@ -89,8 +90,9 @@ rubric clarifications recorded above.
 # 6 · Use of results
 
 Used with the participant's written agreement for the v0.2 validation study,
-with acknowledgement. Expert contributor: Nirmali Wijegoonawardena
-(University of Colombo), named with her authorisation of 28 August 2026. The participant's answers are paraphrased throughout;
+with acknowledgement. Expert contributor: Nirmali Wijegoonawardena,
+Professor in International Relations, University of Colombo, Sri Lanka;
+named with her authorisation of 28 August 2026. The participant's answers are paraphrased throughout;
 verbatim quotation is reserved pending direct contact, per the returned
 consent choices. Raw coding sheets are held by the project and enter the
 delta-registry at adjudication.
