@@ -17,6 +17,7 @@ ideal objects*.
 | `anchors/` | Worked anchor cases fixing the meaning of each ordinal state |
 | `registry/` | Registry of documented corpus cases with provenance |
 | `protocol/` | The delta-protocol for divergence between independent coders |
+| `validation/` | External expert pilots of the deposited instrument (Pilot 01: Nirmali Wijegoonawardena, University of Colombo — results, flags and issues opened for v0.2) |
 
 ---
 
